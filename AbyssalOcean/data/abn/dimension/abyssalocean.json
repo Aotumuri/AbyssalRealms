@@ -1,7 +1,7 @@
 {
   "type": "abn:abyssaloceantype",
   "generator": {
-    "settings": "abn:abyssaloceannoise",
+    "settings": "abn:abyssaloceanlargenoise",
     "type": "minecraft:noise",
     "biome_source": {
       "type": "minecraft:multi_noise",
