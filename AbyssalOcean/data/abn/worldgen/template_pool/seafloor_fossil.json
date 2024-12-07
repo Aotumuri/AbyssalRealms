@@ -5,7 +5,7 @@
         "element": {
           "element_type": "minecraft:single_pool_element",
           "projection": "rigid",
-          "location": "abn:giant_spine_fossil",
+          "location": "abn:fossil/giant_head_fossil",
           "processors": {
             "processors": []
           }
@@ -16,7 +16,7 @@
         "element": {
           "element_type": "minecraft:single_pool_element",
           "projection": "rigid",
-          "location": "abn:giant_head_fossil",
+          "location": "abn:fossil/giant_spine_fossil",
           "processors": {
             "processors": []
           }
