@@ -3,7 +3,7 @@
       {
         "element": {
           "element_type": "minecraft:legacy_single_pool_element",
-          "location": "abn:eternal_seafloor_stronghold/street",
+          "location": "abn:eternal_seafloor_stronghold/mobs/guardian",
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
@@ -12,7 +12,7 @@
       {
         "element": {
           "element_type": "minecraft:legacy_single_pool_element",
-          "location": "abn:eternal_seafloor_stronghold/street_2",
+          "location": "abn:eternal_seafloor_stronghold/mobs/tank_guardian",
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
@@ -21,7 +21,7 @@
       {
         "element": {
           "element_type": "minecraft:legacy_single_pool_element",
-          "location": "abn:eternal_seafloor_stronghold/room/normal_1",
+          "location": "abn:eternal_seafloor_stronghold/mobs/focus_guardian",
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
@@ -30,7 +30,7 @@
       {
         "element": {
           "element_type": "minecraft:legacy_single_pool_element",
-          "location": "abn:eternal_seafloor_stronghold/room/normal_2",
+          "location": "abn:eternal_seafloor_stronghold/mobs/stealth_guardian",
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
