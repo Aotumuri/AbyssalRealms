@@ -22,7 +22,7 @@
       }
     },
     "start_pool": "abn:eternal_seafloor_stronghold/start",
-    "size": 10,
+    "size": 20,
     "start_height": {
       "absolute": -30
     },

@@ -25,7 +25,7 @@
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight": 40
+        "weight": 100
       },
       {
         "element": {
@@ -34,7 +34,7 @@
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight": 40
+        "weight": 80
       }
       ,
       {
@@ -44,7 +44,7 @@
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight": 40
+        "weight": 80
       }
       ,
       {
@@ -63,7 +63,7 @@
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight": 30
+        "weight": 75
       },
       {
         "element": {
@@ -72,7 +72,7 @@
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight": 50
+        "weight": 25
       },
       {
         "element": {
@@ -81,7 +81,34 @@
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight": 50
+        "weight": 25
+      },
+      {
+        "element": {
+          "element_type": "minecraft:legacy_single_pool_element",
+          "location": "abn:eternal_seafloor_stronghold/room/normal_3",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 25
+      },
+      {
+        "element": {
+          "element_type": "minecraft:legacy_single_pool_element",
+          "location": "abn:eternal_seafloor_stronghold/room/normal_4",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 25
+      },
+      {
+        "element": {
+          "element_type": "minecraft:legacy_single_pool_element",
+          "location": "abn:eternal_seafloor_stronghold/room/normal_5",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 25
       }
     ],
     "fallback": "minecraft:empty"
