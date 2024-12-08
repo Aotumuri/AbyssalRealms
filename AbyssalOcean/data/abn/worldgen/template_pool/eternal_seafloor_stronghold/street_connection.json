@@ -145,6 +145,15 @@
           "projection": "rigid"
         },
         "weight": 25
+      },
+      {
+        "element": {
+          "element_type": "minecraft:legacy_single_pool_element",
+          "location": "abn:eternal_seafloor_stronghold/start_3",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 25
       }
     ],
     "fallback": "minecraft:empty"
