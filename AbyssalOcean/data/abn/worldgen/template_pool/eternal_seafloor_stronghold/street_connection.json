@@ -72,7 +72,7 @@
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight": 75
+        "weight": 50
       },
       {
         "element": {
@@ -81,7 +81,7 @@
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight": 75
+        "weight": 50
       },
       {
         "element": {
@@ -90,7 +90,7 @@
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight": 25
+        "weight": 40
       },
       {
         "element": {
@@ -99,7 +99,7 @@
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight": 25
+        "weight": 40
       },
       {
         "element": {
@@ -108,7 +108,7 @@
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight": 25
+        "weight": 40
       },
       {
         "element": {
@@ -117,7 +117,7 @@
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight": 25
+        "weight": 40
       },
       {
         "element": {
@@ -126,7 +126,7 @@
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight": 25
+        "weight": 40
       },
       {
         "element": {
@@ -135,7 +135,7 @@
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight": 25
+        "weight": 40
       },
       {
         "element": {
@@ -144,7 +144,7 @@
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight": 25
+        "weight": 40
       }
     ],
     "fallback": "abn:eternal_seafloor_stronghold/end"
