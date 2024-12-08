@@ -109,5 +109,5 @@
         "weight": 25
       }
     ],
-    "fallback": "minecraft:empty"
+    "fallback": "abn:eternal_seafloor_stronghold/end"
   }
