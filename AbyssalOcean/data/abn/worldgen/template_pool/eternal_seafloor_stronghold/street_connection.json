@@ -25,7 +25,7 @@
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight":150
+        "weight": 100
       },
       {
         "element": {
@@ -81,7 +81,7 @@
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight": 150
+        "weight": 75
       },
       {
         "element": {
@@ -90,7 +90,7 @@
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight": 20
+        "weight": 25
       },
       {
         "element": {
@@ -99,7 +99,7 @@
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight": 20
+        "weight": 25
       },
       {
         "element": {
@@ -108,7 +108,7 @@
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight": 20
+        "weight": 25
       },
       {
         "element": {
@@ -117,7 +117,7 @@
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight": 20
+        "weight": 25
       },
       {
         "element": {
@@ -126,7 +126,7 @@
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight": 20
+        "weight": 25
       },
       {
         "element": {
@@ -135,7 +135,7 @@
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight": 20
+        "weight": 25
       },
       {
         "element": {
@@ -144,17 +144,8 @@
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight": 20
-      },
-      {
-        "element": {
-          "element_type": "minecraft:legacy_single_pool_element",
-          "location": "abn:eternal_seafloor_stronghold/start_3",
-          "processors": "minecraft:empty",
-          "projection": "rigid"
-        },
-        "weight": 5
+        "weight": 25
       }
     ],
-    "fallback": "abn:eternal_seafloor_stronghold/end"
+    "fallback": "minecraft:empty"
   }
