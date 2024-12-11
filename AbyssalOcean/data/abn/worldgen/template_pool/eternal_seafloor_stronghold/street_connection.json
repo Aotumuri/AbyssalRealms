@@ -45,8 +45,7 @@
           "projection": "rigid"
         },
         "weight": 80
-      }
-      ,
+      },
       {
         "element": {
           "element_type": "minecraft:legacy_single_pool_element",
@@ -54,7 +53,16 @@
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight": 40
+        "weight": 10
+      },
+      {
+        "element": {
+          "element_type": "minecraft:legacy_single_pool_element",
+          "location": "abn:eternal_seafloor_stronghold/street_5",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 30
       },
       {
         "element": {
