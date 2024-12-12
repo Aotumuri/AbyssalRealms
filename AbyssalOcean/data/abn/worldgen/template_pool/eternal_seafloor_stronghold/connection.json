@@ -107,6 +107,15 @@
           "projection": "rigid"
         },
         "weight": 40
+      },
+      {
+        "element": {
+          "element_type": "minecraft:legacy_single_pool_element",
+          "location": "abn:eternal_seafloor_stronghold/room/boss",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 50
       }
     ],
     "fallback": "abn:eternal_seafloor_stronghold/end"
