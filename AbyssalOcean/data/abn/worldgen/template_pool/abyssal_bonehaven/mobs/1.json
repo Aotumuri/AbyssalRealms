@@ -11,6 +11,15 @@
       },
       {
         "element": {
+          "element_type": "minecraft:legacy_single_pool_element",
+          "location": "abn:abyssal_bonehaven/mobs/tank_abysswalker",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 50
+      },
+      {
+        "element": {
           "element_type": "minecraft:empty_pool_element"
         },
         "weight": 100
