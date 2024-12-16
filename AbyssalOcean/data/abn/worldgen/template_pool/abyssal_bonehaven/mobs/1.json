@@ -3,7 +3,7 @@
       {
         "element": {
           "element_type": "minecraft:legacy_single_pool_element",
-          "location": "abn:abyssal_bonehaven/house_1",
+          "location": "abn:abyssal_bonehaven/mobs/abysswalker",
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
