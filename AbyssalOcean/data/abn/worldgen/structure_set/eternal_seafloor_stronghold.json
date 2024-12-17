@@ -11,5 +11,6 @@
       "structure": "abn:eternal_seafloor_stronghold",
       "weight": 1
     }
-  ]
+  ],
+  "on_treasure_maps": true
 }
