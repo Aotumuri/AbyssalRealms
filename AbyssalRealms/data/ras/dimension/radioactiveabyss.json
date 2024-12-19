@@ -1,0 +1,11 @@
+{
+    "type": "ras:radioactiveabysstype",
+    "generator": {
+      "settings": "abn:radioactiveabyssnoise",
+      "type": "minecraft:noise",
+      "biome_source": {
+        "type": "minecraft:multi_noise",
+        "biomes": []
+      }
+    }
+  }
