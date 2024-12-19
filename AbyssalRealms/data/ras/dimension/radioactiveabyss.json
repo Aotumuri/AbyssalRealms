@@ -1,11 +1,24 @@
 {
-    "type": "ras:radioactiveabysstype",
-    "generator": {
-      "settings": "abn:radioactiveabyssnoise",
-      "type": "minecraft:noise",
-      "biome_source": {
-        "type": "minecraft:multi_noise",
-        "biomes": []
-      }
+  "type": "ras:radioactiveabysstype",
+  "generator": {
+    "settings": "ras:radioactiveabyssnoise",
+    "type": "minecraft:noise",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "biomes": [    
+        {
+          "biome": "ras:radioactive_abyss",
+          "parameters": {
+            "temperature": 1,
+            "humidity": 0.8,
+            "continentalness": 0,
+            "erosion": 0,
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        }
+      ]
     }
   }
+}
