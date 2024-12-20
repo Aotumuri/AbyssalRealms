@@ -33,7 +33,9 @@
         "minecraft:monster_room_deep"
       ],
       [],
-      [],
+      [
+        "ras:more_amethyst"
+      ],
       [
         "ras:ore/coal",
         "ras:ore/copper",
@@ -43,7 +45,9 @@
         "ras:ore/iron",
         "ras:ore/lapis",
         "ras:ore/redstone",
-        "minecraft:underwater_magma"
+        "minecraft:underwater_magma",
+        "ras:more_amethyst_cluster/down",
+        "ras:more_amethyst_cluster/up"
       ],
       [],
       [
