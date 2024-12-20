@@ -2,7 +2,7 @@
     "feature": "minecraft:spring_water",
     "placement": [
       {
-        "count": 150,
+        "count": 256,
         "type": "minecraft:count"
       },
       {

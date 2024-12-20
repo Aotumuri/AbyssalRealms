@@ -6,7 +6,7 @@
     ],
     "downfall": 0.5,
     "effects": {
-      "fog_color": 537,
+      "fog_color": 3024943,
       "mood_sound": {
         "block_search_extent": 8,
         "offset": 2,
@@ -15,9 +15,9 @@
       },
       "music": [],
       "music_volume": 1,
-      "sky_color": 292,
-      "water_color": 1085,
-      "water_fog_color": 789804
+      "sky_color": 2169889,
+      "water_color": 2301731,
+      "water_fog_color": 3090224
     },
     "features": [
       [],
@@ -33,17 +33,8 @@
         "minecraft:monster_room_deep"
       ],
       [],
+      [],
       [
-        "ras:more_amethyst"
-      ],
-      [
-        "minecraft:ore_dirt",
-        "minecraft:ore_gravel",
-        "minecraft:ore_granite_upper",
-        "minecraft:ore_granite_lower",
-        "ras:more_granite",
-        "ras:smooth_basalt",
-        "minecraft:ore_tuff",
         "ras:ore/coal",
         "ras:ore/copper",
         "ras:ore/diamond",
@@ -52,14 +43,13 @@
         "ras:ore/iron",
         "ras:ore/lapis",
         "ras:ore/redstone",
-        "minecraft:underwater_magma",
-        "ras:more_water"
+        "minecraft:underwater_magma"
       ],
       [],
       [
         "minecraft:spring_water",
         "minecraft:spring_lava",
-        "ras:more_spring_water"
+        "ras:amethyst_cluster"
       ],
       [],
       []
@@ -80,9 +70,27 @@
         },
         {
           "type": "minecraft:slime",
-          "weight": 150,
-          "minCount": 1,
+          "weight": 75,
+          "minCount": 2,
           "maxCount": 4
+        },
+        {
+          "type": "minecraft:creeper",
+          "weight": 75,
+          "minCount": 2,
+          "maxCount": 4
+        },
+        {
+          "type": "minecraft:wither_skeleton",
+          "weight": 100,
+          "minCount": 4,
+          "maxCount": 6
+        },
+        {
+          "type": "minecraft:phantom",
+          "weight": 75,
+          "minCount": 3,
+          "maxCount": 5
         }
       ],
       "underground_water_creature": [],
