@@ -21,7 +21,7 @@
         {
           "biome": "ras:molten_caverns",
           "parameters": {
-            "temperature": 0.3,
+            "temperature": 0.4,
             "humidity": 1,
             "continentalness": 0,
             "erosion": 0,
@@ -33,7 +33,7 @@
         {
           "biome": "ras:blackwater_hell",
           "parameters": {
-            "temperature": 0.3,
+            "temperature": 0.4,
             "humidity": 0.5,
             "continentalness": 0,
             "erosion": 0,
@@ -45,8 +45,20 @@
         {
           "biome": "ras:crystalized_cave",
           "parameters": {
-            "temperature": 0.1,
+            "temperature": 0.3,
             "humidity": 0.3,
+            "continentalness": 0,
+            "erosion": 0,
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "ras:contaminated_area",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.2,
             "continentalness": 0,
             "erosion": 0,
             "weirdness": 0,

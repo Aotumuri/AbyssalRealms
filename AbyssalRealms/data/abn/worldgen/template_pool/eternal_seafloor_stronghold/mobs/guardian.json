@@ -37,5 +37,5 @@
         "weight": 50
       }
     ],
-    "fallback": "minecraft:empty"
+    "fallback": "abn:eternal_seafloor_stronghold/mobs/guardian"
   }
