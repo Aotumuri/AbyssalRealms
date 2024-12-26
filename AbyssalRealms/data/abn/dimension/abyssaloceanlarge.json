@@ -113,6 +113,18 @@
             "depth": 0.2,
             "offset": 0
           }
+        },
+        {
+          "biome": "abn:serpents_mire",
+          "parameters": {
+            "temperature": 0,
+            "humidity": 1,
+            "continentalness": 0.7,
+            "erosion": 0.1,
+            "weirdness": 0.3,
+            "depth": 0.2,
+            "offset": 0
+          }
         }
       ]
     }
