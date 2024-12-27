@@ -1,14 +1,14 @@
 {
   "placement": {
     "type": "minecraft:random_spread",
-    "separation": 50,
-    "salt": 10387313,
-    "spacing": 100,
+    "separation": 5,
+    "salt": 1792729,
+    "spacing": 20,
     "spread_type": "triangular"
   },
   "structures": [
     {
-      "structure": "abn:eternal_seafloor_stronghold",
+      "structure": "abn:toxic_pillar",
       "weight": 1
     }
   ]
