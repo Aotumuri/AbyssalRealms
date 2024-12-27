@@ -1,0 +1,14 @@
+{
+    "elements": [
+      {
+        "element": {
+          "element_type": "minecraft:legacy_single_pool_element",
+          "location": "abn:toxic_floor/treasure/1",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 25
+      }
+    ],
+    "fallback": "minecraft:empty"
+  }
