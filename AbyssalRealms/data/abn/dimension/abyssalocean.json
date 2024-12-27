@@ -106,7 +106,7 @@
           "biome": "abn:serpents_mire",
           "parameters": {
             "temperature": 0.1,
-            "humidity": 0.9,
+            "humidity": 0.7,
             "continentalness": 0.7,
             "erosion": 0.1,
             "weirdness": 0.3,
@@ -118,7 +118,7 @@
           "biome": "abn:deep_fathomless_ocean",
           "parameters": {
             "temperature": 0,
-            "humidity": 0.75,
+            "humidity": 0.9,
             "continentalness": 0.7,
             "erosion": 0.1,
             "weirdness": 0.3,
