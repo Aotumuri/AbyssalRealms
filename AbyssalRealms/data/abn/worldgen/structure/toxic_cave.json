@@ -4,7 +4,7 @@
     "step": "top_layer_modification",
     "spawn_overrides": {
       "monster": {
-        "bounding_box": "full",
+        "bounding_box": "piece",
         "spawns": [
           {
             "type": "minecraft:pufferfish",
