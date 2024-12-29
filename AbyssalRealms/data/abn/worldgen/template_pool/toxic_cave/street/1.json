@@ -57,7 +57,25 @@
       {
         "element": {
           "element_type": "minecraft:legacy_single_pool_element",
+          "location": "abn:toxic_cave/street/1_crystal",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 30
+      },
+      {
+        "element": {
+          "element_type": "minecraft:legacy_single_pool_element",
           "location": "abn:toxic_cave/street/2_crystal",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 30
+      },
+      {
+        "element": {
+          "element_type": "minecraft:legacy_single_pool_element",
+          "location": "abn:toxic_cave/street/3_crystal",
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
