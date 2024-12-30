@@ -1,12 +1,13 @@
 {
     "type": "minecraft:jigsaw",
-    "biomes": "#abn:has_fossil",
+    "biomes": "#abn:abn_all",
     "step": "surface_structures",
     "spawn_overrides": {},
     "start_pool": "abn:the_aquafrost_altar/start/0",
+    "start_jigsaw_name": "abn:connection",
     "size": 10,
     "start_height": {
-      "absolute": -10
+      "absolute": 0
     },
     "project_start_to_heightmap": "OCEAN_FLOOR_WG",
     "max_distance_from_center": 128,
