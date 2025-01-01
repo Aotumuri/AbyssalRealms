@@ -1,0 +1,1 @@
+tellraw @s {"color":"white","italic":false,"text":"<Aotumuri> もう少し、大氷水八十字を綺麗にして欲しいな。要するに魔法陣を見えるようにして欲しい。水が欲しいよ・・・"}

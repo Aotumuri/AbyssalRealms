@@ -21,4 +21,3 @@ execute as @a at @s if block ~ ~-7 ~ bedrock run scoreboard players add @s abn.s
 execute as @a at @s if block ~ ~-8 ~ bedrock run scoreboard players add @s abn.score.check.star 1
 execute as @a at @s if block ~ ~-9 ~ bedrock run scoreboard players add @s abn.score.check.star 1
 execute as @s at @s if score @s abn.score.check.star matches 18.. run function abn:check/done/star
-
