@@ -13,3 +13,5 @@ SotFと両方を使う場合は明記されているバージョンSotF(およ�
 SotFと一緒に使う場合SotF内部にあるabnおよびrasを削除してください。
 場所はSurvival of the Fittest Datapack/data/abn   Survival of the Fittest Datapack/data/rasを消してください。
 なお、正常な動作は保証されません。（けどそうして欲しいです。私もそうしてます）
+
+お願いね（）
