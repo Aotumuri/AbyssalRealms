@@ -1,0 +1,1 @@
+summon block_display ~-0.5 ~4 ~-0.5 {Passengers:[{id:"minecraft:block_display",block_state:{Name:"minecraft:blue_ice",Properties:{}},transformation:[1.5000f,-1.5000f,2.1213f,-1.4375f,2.5607f,0.4393f,-1.5000f,-0.6875f,0.4393f,2.5607f,1.5000f,-2.1875f,0.0000f,0.0000f,0.0000f,1.0000f]}]}
